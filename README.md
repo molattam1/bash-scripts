@@ -13,7 +13,7 @@ A collection of **useful Bash scripts** to automate and simplify various system 
 ## 📂 Script Categories
 
 ### 🔧 System Maintenance
-- **[`ubuntu-update.sh`](scripts/system/ubuntu-update.sh)** – Update and clean your Ubuntu system.
+- **[`sys-update.sh`](scripts/system/sys-update.sh)** – Update and clean your Ubuntu system.
 - **[`cleanup.sh`](scripts/system/cleanup.sh)** – Remove unnecessary files and free up space.
 - **[`monitor-resources.sh`](scripts/system/monitor-resources.sh)** – Monitor CPU, RAM, and network usage.
 
@@ -59,7 +59,7 @@ source ~/.bashrc
 ```
 Now, you can run:
 ```bash
-sys_update.sh
+sys-update.sh
 ```
 
 ## 🤝 Contributing
